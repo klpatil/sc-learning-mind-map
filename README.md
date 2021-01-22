@@ -1,5 +1,3 @@
-# sc-learning-mind-map
-
 # Sitecore Learning Mind map
 Sitecore learning mind map is a list of topics which you would like to learn. Sitecore Eco system has grown and even after working on Sitecore for a decade at times I also need to refer few sources to confirm something.
 
