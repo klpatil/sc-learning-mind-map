@@ -12,6 +12,8 @@ This list might not have everything as the Sitecore ecosystem has grown a lot! B
 |--|--|
 | [@GuitarRich](https://github.com/GuitarRich) | Recommended to add Leprechaun |
 | [@ugo-quaisse](https://github.com/ugo-quaisse) | Recommended to add Browser extensions|
+| [@AmitKumar-AK](https://github.com/AmitKumar-AK) | Recommended to add modules (Advance Image module,SCLA, Content Export Tool, VS Code for Log,Sitecore URL Mapper 2)|
+| [@sreekrishnan1993](https://github.com/sreekrishnan1993) | Recommended to add Learning/Telegram/Coveo/Sitecore User groups|
 
 
 
